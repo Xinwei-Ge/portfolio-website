@@ -332,3 +332,17 @@ body{
 .copyrightSection p {
     margin: 0;
 }
+
+#navigation {
+    background-color: #b2bec3;
+    padding: 20px 10px;
+    z-index: 100;
+}
+
+#navigation li {
+    padding: 0 10px;
+}
+
+#navigation li a {
+    color: #fff;
+}
