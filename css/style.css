@@ -72,7 +72,7 @@ body{
 
 .skillsSection,
 .contactSection {
-    background-color: #0984e3;
+    background-color: #28325B;
     color: #fff;
 }
 
@@ -141,7 +141,7 @@ body{
     font-size: 56px;
     margin-bottom: 10px;
     font-weight: 400;
-    color: #0984e3;
+    color: #28325B;
 
 }
 
@@ -177,7 +177,7 @@ body{
 
 .contactButton:hover {
     text-decoration: none;
-    color: #0984e3;
+    color: #28325B;
     background-color: #fff;
 }
 
@@ -195,8 +195,8 @@ body{
 }
 
 .filter .current {
-    background-color: #0984e3;
-    border-color: #0984e3;
+    background-color: #28325B;
+    border-color: #28325B;
     color: #fff;
 }
 
@@ -257,7 +257,7 @@ body{
 .items a {
 	width: 40px;
     height: 40px;
-    background-color: #0984e3;
+    background-color: #28325B;
     position: relative;
     display: inline-block;
 
@@ -334,7 +334,7 @@ body{
 }
 
 #navigation {
-    background-color: #0984e3;
+    background-color: #28325B;
     padding: 20px 10px;
     z-index: 100;
     width: 100%;
