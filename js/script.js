@@ -12,6 +12,8 @@ $(window).on("load", function() {
 			queue: false
 		}
     });
+
+    $(this).scrollTop(0);
 })
 
 
