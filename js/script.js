@@ -27,12 +27,11 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typed",{
-        strings: ["Software Engineer", "Lehman College","Student"],
+        strings: ["Software Engineer", "Web Developer", "Problem Solver", "Learner", "Lehman College"],
         typeSpeed: 70,
         loop: true,
-        staratDelay: 1000,
+        startDelay: 1000,
         showCursor: false
-
     });
 
     $('.owl-carousel').owlCarousel({
