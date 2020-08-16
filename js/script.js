@@ -1,5 +1,7 @@
 $(window).on("load", function() {
 
+    $(this).scrollTop(0);
+
     $(".loader .inner").fadeOut(1000, function() {
         $(".loader").fadeOut(500)
     });
@@ -13,7 +15,6 @@ $(window).on("load", function() {
 		}
     });
 
-    $(this).scrollTop(0);
 })
 
 
