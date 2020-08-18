@@ -20,3 +20,5 @@ Count Up : https://github.com/inorganik/CountUp.js
 Fancy Box : http://fancyapps.com/fancybox/3/
 
 Icon 8 : 
+
+Free Images : https://www.pexels.com/
