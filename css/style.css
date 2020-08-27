@@ -88,6 +88,24 @@ body{
 
 }
 
+.git:hover{
+    text-decoration: none;
+    color:#fff;
+    background-color: #282828
+}
+
+.linkedIn:hover{
+    text-decoration: none;
+    color:#fff;
+    background-color: #282828
+}
+
+.resume:hover{
+    text-decoration: none;
+    color:#fff;
+    background-color: #282828
+}
+
 .titleMessage .heading p {
     color: #ffffff;
     text-shadow: 0px 2px 5px rgba(0,0, 0,0.4);
