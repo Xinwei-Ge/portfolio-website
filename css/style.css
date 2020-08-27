@@ -90,20 +90,23 @@ body{
 
 .git:hover{
     text-decoration: none;
-    color:#fff;
-    background-color: #282828
+    color:#282828;
+    background-color: #fff;
+    opacity: .5;
 }
 
 .linkedIn:hover{
     text-decoration: none;
-    color:#fff;
-    background-color: #282828
+    color:#282828;
+    background-color: #fff;
+    opacity: .5;
 }
 
 .resume:hover{
     text-decoration: none;
-    color:#fff;
-    background-color: #282828
+    color:#282828;
+    background-color: #fff;
+    opacity: .5;
 }
 
 .titleMessage .heading p {
