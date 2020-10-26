@@ -1,7 +1,7 @@
 # xinwei-ge.github.io
 My Portfolio Website
 
-you can access this website at xinwei-ge.com
+##you can access this website at http://xinwei-ge.com
 
 useful Libraries I've used:
 
